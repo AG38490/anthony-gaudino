@@ -3,7 +3,8 @@ title: "Technicien d'assistance en informatique"
 order: 4
 in_menu: true
 ---
-<li><a href="index.html" class="nav-link">ACCUEIL</a></li>
+<ul>
+        <li><a href="index.html" class="nav-link">ACCUEIL</a></li>
         <li><a href="competences.html" class="nav-link">COMPÉTENCES/DIPLÔMES</a></li>
         <li><a href="about.html" class="nav-link">À PROPOS</a></li>
       </ul>
@@ -17,11 +18,11 @@ in_menu: true
     </section>
     <h1>Experiences Professionnelles:</h1>
     <!-- Formation Section -->
-    <div class="formation">       
+    <div class="formation">  
         <div class="item">
             <h2>Formation:TAI (Technicien d'Assistance en Informatique)</h2>
             <p class="dates">De décembre 2024 à septembre 2025</p>
-            <p>CCI Nord Isère, Villefontaine</p> 
+            <p>CCI Nord Isère, Villefontaine</p>
         <div class="item">
             <h2>Agent communal</h2>
             <p class="dates">De juillet 2023 à avril 2024</p>
