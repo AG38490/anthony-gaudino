@@ -1,11 +1,10 @@
 ---
-title: "Compétences/Diplômes"
+title: "COMPETENCES/DIPLOMES"
 order: 3
 in_menu: true
 ---
 <main>
     <section class="skills">
-      <h1>Compétences et Diplômes</h1>
       <h2>Compétences/Informatique</h2>
       <ul>
         <li>Installation et configuration: Mise en place de postes de travail, logiciels et périphériques.</li>
