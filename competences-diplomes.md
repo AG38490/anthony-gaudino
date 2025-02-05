@@ -25,5 +25,4 @@ in_menu: true
     </section>
   </main>
   <footer>
-    <p>&copy; Anthony</p>
-  </footer> 
+    <p>&copy; Anthony</p> 
