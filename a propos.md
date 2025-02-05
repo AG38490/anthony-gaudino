@@ -3,14 +3,7 @@ title: "à propos"
 order: 3
 in_menu: true
 ---
-<ul>
-        <li><a href="index.html" class="nav-link">ACCUEIL</a></li>
-        <li><a href="competences.html" class="nav-link">COMPÉTENCES/DIPLÔMES</a></li>
-        <li><a href="about.html" class="nav-link">À PROPOS</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
+<main>
     <section class="about">
       <h1>À propos de moi</h1>
       <h3><p>Qui je suis et ma conception du métier de technicien d’assistance informatique :</h3>
