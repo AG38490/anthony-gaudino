@@ -26,6 +26,4 @@ in_menu: true
   </main>
   <footer>
     <p>&copy; Anthony</p>
-  </footer>
-</body>
-</html> 
+  </footer> 
