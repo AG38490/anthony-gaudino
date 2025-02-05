@@ -3,14 +3,7 @@ title: "Technicien d'assistance en informatique"
 order: 4
 in_menu: true
 ---
-<ul>
-        <li><a href="index.html" class="nav-link">ACCUEIL</a></li>
-        <li><a href="competences.html" class="nav-link">COMPÉTENCES/DIPLÔMES</a></li>
-        <li><a href="about.html" class="nav-link">À PROPOS</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
+<main>
     <section class="welcome">
       <h1>Bienvenue sur mon CV en ligne</h1>                                <h2>Anthony Gaudino</h2>
       <p>Technicien d'assistance informatique passionné par les nouvelles technologies.</p>
